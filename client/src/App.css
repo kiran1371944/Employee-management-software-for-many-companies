@@ -1,0 +1,127 @@
+*{
+    /* background-color: #F5fdff; */
+     margin: 0;
+    padding: 0;
+}
+/*.box{
+    width: 75%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+    box-shadow: 1px 3px 29px -5px rgba(0,0,0,0.75);
+    box-sizing: border-box;
+    border-radius: 5px;
+
+}
+.regimg{
+    background-color: #fff;
+}
+.regimg figure{
+    min-width: 50%;
+    background-color: #fff;
+}
+.regimg img{
+    width: 80%;
+    background-color: #fff;
+    margin-left: 10%;
+}
+.app-wrapper{
+    min-width: 50%;
+    min-height: 60%;
+    padding: 2rem;
+    box-sizing: border-box;
+    border-radius: 5px;
+    background-color: #fff;
+}
+.app-wrapp{
+    background-color: #fff;
+    box-shadow: 1px 3px 29px -5px rgba(0,0,0,0.75);
+    min-width: 30%;
+    height: 40%;
+    padding: 2rem;
+    box-sizing: border-box;
+    border-radius: 5px;
+    margin-top: -100px;
+}
+.title{
+    color: #f80759;
+    text-align: center;
+    background-color: #fff; */
+/* margin: 80px 0px 40px 0px; */
+/* }
+form{
+    background-color: #fff;
+}
+.zmdi{
+    margin-top: 10px;
+    background-color: #fff;
+}
+label{
+    background-color: #fff;
+}
+.name,.email,.password,.number,.profession,.cpassword{
+display: flex;
+margin: 1.8rem 3rem;
+color: #969292; */
+/* font-size: 16px; */
+/* }
+.cpassword{
+margin-bottom: 40px;
+}
+.input{
+    background-color: #fff;
+    padding: 0.25rem;
+    height: 32px;
+    font-size: 16px;
+    outline: none;
+    width: 100%;
+    border-top-style: none;
+    border-left-style: none;
+    border-right-style: none;
+    border-bottom-style: 2px solid rgb(36, 36, 36);
+}
+.error{
+    color: red;
+}
+.submit{
+    width: 20%;
+    height: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 1.5rem;
+    background: linear-gradient(to right,#ab1dcf,#f80759);
+    box-shadow:rgba(0, 0, 0, 0.3)0px -1px 28px,rgba(0, 0, 0, 0.22)7px 1px 7px;
+    margin: auto;
+    margin-bottom: 0.5rem;
+    border: none;
+    cursor: pointer;
+    color: white;
+    font-size: 1.2rem;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+.submit:active{
+transform: translate(2px);
+}
+h6,a{
+margin-top: 1.3rem;
+text-align: center;
+background-color: #fff;
+}
+.form-success{
+display: flex;
+justify-content: center;
+margin-top: 250px;
+min-width: 370px;
+color: #f80759;
+}
+.form-control{
+padding-left: 0rem;
+border: none;
+}
+.form-group{
+padding-left: 0.95rem; 
+}*/

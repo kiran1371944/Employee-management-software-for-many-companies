@@ -1,0 +1,9 @@
+img{
+    width: 4rem;
+    height:auto;
+    margin: 0;
+    padding: 0;
+}
+.color{
+    background: linear-gradient( rgb(192, 225, 255),rgb(221, 240, 255));
+}
